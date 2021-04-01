@@ -1,0 +1,25 @@
+h1 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
+.image{
+	border-radius: 50%;
+}
+.div0{
+	background-image: url('images.jpg');
+	
+}
+.div1{
+	background-image: url('images.jpg');
+	display: flex;
+}
+.div2{
+	display: inline;
+	margin-top: 16px;
+	margin-left: 400px;	
+}
+.image1{
+	text-align: right;
+	 padding-right: 10px;
+	}
